@@ -23,9 +23,9 @@ This repository contains several Jupyter notebooks aimed at demonstrating the ca
 
 This section includes notebooks that show how to price various financial derivatives using the TensorQuant library, including:
 
-- **Options pricing**
-- **Futures pricing**
-- **Swaps and other exotic derivatives**
+- **Options**
+- **Futures**
+- **Swaps and exotic derivatives**
 
 ### Stochastic Analysis
 
